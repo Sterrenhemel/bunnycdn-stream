@@ -2788,9 +2788,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bunnycdn-stream@workspace:.":
+"bunnycdn-stream-s@workspace:.":
   version: 0.0.0-use.local
-  resolution: "bunnycdn-stream@workspace:."
+  resolution: "bunnycdn-stream-s@workspace:."
   dependencies:
     "@commitlint/cli": ^17.6.1
     "@commitlint/config-conventional": ^17.6.1
