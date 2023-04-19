@@ -126,6 +126,8 @@ export class BunnyCdnStream {
     options.method = 'POST';
     options.data = JSON.stringify(data);
 
+    console.log(options);
+
     const video = await this.request<BunnyCdnStream.VideoResponse>(options, 'create');
 
     return new BunnyCdnStreamVideo(video);
@@ -624,7 +626,9 @@ export class BunnyCdnStream {
   }
 
   private getOptions() {
+    const { videoLibrary, apiKey, ...options } = this.options;
     return {
+      ...options,
       ...this.axiosOptions,
       headers: new AxiosHeaders(this.axiosOptions.headers)
     };
