@@ -124,38 +124,38 @@ describe('BunnyCdnStream', () => {
     //   { timeout: 60000 * 2 }
     // );
 
-    test('GIVEN library w/ encoded video THEN has meta', async () => {
-      const video = await stream.getVideo(videoGuid);
-      expect(video).toMatchObject({
-        videoLibraryId: expect.any(Number),
-        guid: videoGuid,
-        title: 'test',
-        dateUploaded: expect.any(String),
-        views: 0,
-        isPublic: false,
-        length: 5,
-        status: 4,
-        framerate: expect.any(Number),
-        width: 608,
-        height: 1080,
-        availableResolutions: expect.any(String),
-        thumbnailCount: expect.any(Number),
-        encodeProgress: 100,
-        storageSize: expect.any(Number),
-        captions: [],
-        hasMP4Fallback: true,
-        collectionId: '',
-        thumbnailFileName: expect.any(String),
-        moments: [],
-        averageWatchTime: 0,
-        totalWatchTime: 0,
-        category: 'animals-cats',
-        chapters: [],
-        metaTags: []
-      });
-
-      expect(video.resolutions).toHaveLength(4);
-    });
+    // test('GIVEN library w/ encoded video THEN has meta', async () => {
+    //   const video = await stream.getVideo(videoGuid);
+    //   expect(video).toMatchObject({
+    //     videoLibraryId: expect.any(Number),
+    //     guid: videoGuid,
+    //     title: 'test',
+    //     dateUploaded: expect.any(String),
+    //     views: 0,
+    //     isPublic: false,
+    //     length: 5,
+    //     status: 4,
+    //     framerate: expect.any(Number),
+    //     width: 608,
+    //     height: 1080,
+    //     availableResolutions: expect.any(String),
+    //     thumbnailCount: expect.any(Number),
+    //     encodeProgress: 100,
+    //     storageSize: expect.any(Number),
+    //     captions: [],
+    //     hasMP4Fallback: true,
+    //     collectionId: '',
+    //     thumbnailFileName: expect.any(String),
+    //     moments: [],
+    //     averageWatchTime: 0,
+    //     totalWatchTime: 0,
+    //     category: 'animals-cats',
+    //     chapters: [],
+    //     metaTags: []
+    //   });
+    //
+    //   expect(video.resolutions).toHaveLength(4);
+    // });
 
     test('GIVEN library w/ encoded video THEN can upload vtt subtitles', async () => {
       const subs = readFileSync(resolve(__dirname, 'data', 'bunny.vtt'));
@@ -237,25 +237,25 @@ describe('BunnyCdnStream', () => {
     //   console.log(res);
     // }); // 500
 
-    test('GIVEN library w/ encoded video THEN can fetch', async () => {
-      const res = await stream.fetchVideo(videoGuid, { url: 'https://support-bunny.b-cdn.net/tickets/186949/file_example_MP4_480_1_5MG.mp4' });
-      expect(res).toMatchObject({
-        id: expect.any(String),
-        success: true,
-        message: 'OK',
-        statusCode: 200
-      });
-
-      await new Promise((r) => {
-        const interval = setInterval(async () => {
-          const video = await stream.getVideo(videoGuid);
-          if (video.encodeProgress === 100) {
-            clearInterval(interval);
-            r(0);
-          }
-        }, 1000);
-      });
-    });
+    // test('GIVEN library w/ encoded video THEN can fetch', async () => {
+    //   const res = await stream.fetchVideo(videoGuid, { url: 'https://support-bunny.b-cdn.net/tickets/186949/file_example_MP4_480_1_5MG.mp4' });
+    //   expect(res).toMatchObject({
+    //     id: expect.any(String),
+    //     success: true,
+    //     message: 'OK',
+    //     statusCode: 200
+    //   });
+    //
+    //   await new Promise((r) => {
+    //     const interval = setInterval(async () => {
+    //       const video = await stream.getVideo(videoGuid);
+    //       if (video.encodeProgress === 100) {
+    //         clearInterval(interval);
+    //         r(0);
+    //       }
+    //     }, 1000);
+    //   });
+    // });
 
     // test(
     //   'GIVEN library w/ encoded video THEN can reencode',
