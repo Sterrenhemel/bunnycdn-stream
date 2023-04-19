@@ -125,8 +125,6 @@ export class BunnyCdnStream {
     options.url += `/library/${this.options.videoLibrary}/videos`;
     options.method = 'POST';
     options.data = JSON.stringify(data);
-    console.log(options);
-
     const video = await this.request<BunnyCdnStream.VideoResponse>(options, 'create');
 
     return new BunnyCdnStreamVideo(video);
