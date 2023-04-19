@@ -1,4 +1,4 @@
-bunnycdn-stream / [Exports](modules.md)
+bunnycdn-stream-s / [Exports](modules.md)
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]

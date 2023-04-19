@@ -1,4 +1,4 @@
-[bunnycdn-stream](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / UpdateCollectionResponse
+[bunnycdn-stream-s](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / UpdateCollectionResponse
 
 # Interface: UpdateCollectionResponse
 
@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/index.ts:768](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L768)
+[src/index.ts:771](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L771)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/index.ts:769](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L769)
+[src/index.ts:772](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L772)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/index.ts:767](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L767)
+[src/index.ts:770](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L770)

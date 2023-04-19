@@ -1,4 +1,4 @@
-[bunnycdn-stream](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / DeleteVideoResponse
+[bunnycdn-stream-s](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / DeleteVideoResponse
 
 # Interface: DeleteVideoResponse
 
@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/index.ts:682](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L682)
+[src/index.ts:685](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L685)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/index.ts:683](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L683)
+[src/index.ts:686](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L686)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/index.ts:681](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L681)
+[src/index.ts:684](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L684)

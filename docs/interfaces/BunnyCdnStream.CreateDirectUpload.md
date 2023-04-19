@@ -1,4 +1,4 @@
-[bunnycdn-stream](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / CreateDirectUpload
+[bunnycdn-stream-s](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / CreateDirectUpload
 
 # Interface: CreateDirectUpload
 
@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[src/index.ts:779](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L779)
+[src/index.ts:782](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L782)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[src/index.ts:780](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L780)
+[src/index.ts:783](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L783)
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 #### Defined in
 
-[src/index.ts:786](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L786)
+[src/index.ts:789](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L789)
 
 ___
 
@@ -68,4 +68,4 @@ ___
 
 #### Defined in
 
-[src/index.ts:778](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L778)
+[src/index.ts:781](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L781)

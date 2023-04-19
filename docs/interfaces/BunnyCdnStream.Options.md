@@ -1,4 +1,4 @@
-[bunnycdn-stream](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / Options
+[bunnycdn-stream-s](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / Options
 
 # Interface: Options
 
@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[src/index.ts:637](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L637)
+[src/index.ts:640](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L640)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/index.ts:636](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L636)
+[src/index.ts:639](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L639)

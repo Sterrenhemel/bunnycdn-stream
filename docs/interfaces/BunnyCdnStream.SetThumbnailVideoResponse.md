@@ -1,4 +1,4 @@
-[bunnycdn-stream](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / SetThumbnailVideoResponse
+[bunnycdn-stream-s](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / SetThumbnailVideoResponse
 
 # Interface: SetThumbnailVideoResponse
 
@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/index.ts:718](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L718)
+[src/index.ts:721](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L721)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/index.ts:719](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L719)
+[src/index.ts:722](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L722)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/index.ts:717](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L717)
+[src/index.ts:720](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L720)

@@ -1,4 +1,4 @@
-[bunnycdn-stream](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / UpdateVideoResponse
+[bunnycdn-stream-s](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / UpdateVideoResponse
 
 # Interface: UpdateVideoResponse
 
@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/index.ts:694](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L694)
+[src/index.ts:697](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L697)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/index.ts:695](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L695)
+[src/index.ts:698](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L698)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/index.ts:693](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L693)
+[src/index.ts:696](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L696)
