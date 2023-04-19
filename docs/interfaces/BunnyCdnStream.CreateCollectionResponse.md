@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[src/index.ts:746](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L746)
+[src/index.ts:746](https://github.com/Sterrenhemel/bunnycdn-stream/blob/8ddf88a/src/index.ts#L746)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-[src/index.ts:747](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L747)
+[src/index.ts:747](https://github.com/Sterrenhemel/bunnycdn-stream/blob/8ddf88a/src/index.ts#L747)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[src/index.ts:750](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L750)
+[src/index.ts:750](https://github.com/Sterrenhemel/bunnycdn-stream/blob/8ddf88a/src/index.ts#L750)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[src/index.ts:749](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L749)
+[src/index.ts:749](https://github.com/Sterrenhemel/bunnycdn-stream/blob/8ddf88a/src/index.ts#L749)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[src/index.ts:748](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L748)
+[src/index.ts:748](https://github.com/Sterrenhemel/bunnycdn-stream/blob/8ddf88a/src/index.ts#L748)
 
 ___
 
@@ -73,4 +73,4 @@ ___
 
 #### Defined in
 
-[src/index.ts:745](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L745)
+[src/index.ts:745](https://github.com/Sterrenhemel/bunnycdn-stream/blob/8ddf88a/src/index.ts#L745)

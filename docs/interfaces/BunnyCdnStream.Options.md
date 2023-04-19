@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[src/index.ts:640](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L640)
+[src/index.ts:640](https://github.com/Sterrenhemel/bunnycdn-stream/blob/8ddf88a/src/index.ts#L640)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[src/index.ts:639](https://github.com/Sterrenhemel/bunnycdn-stream/blob/95c031e/src/index.ts#L639)
+[src/index.ts:639](https://github.com/Sterrenhemel/bunnycdn-stream/blob/8ddf88a/src/index.ts#L639)
