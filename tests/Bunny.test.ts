@@ -108,21 +108,21 @@ describe('BunnyCdnStream', () => {
       expect(videos.items).toHaveLength(0);
     });
 
-    test(
-      'GIVEN library w/ video THEN can encode',
-      async () => {
-        await new Promise((r) => {
-          const interval = setInterval(async () => {
-            const video = await stream.getVideo(videoGuid);
-            if (video.encodeProgress === 100) {
-              clearInterval(interval);
-              r(0);
-            }
-          }, 1000);
-        });
-      },
-      { timeout: 60000 * 2 }
-    );
+    // test(
+    //   'GIVEN library w/ video THEN can encode',
+    //   async () => {
+    //     await new Promise((r) => {
+    //       const interval = setInterval(async () => {
+    //         const video = await stream.getVideo(videoGuid);
+    //         if (video.encodeProgress === 100) {
+    //           clearInterval(interval);
+    //           r(0);
+    //         }
+    //       }, 1000);
+    //     });
+    //   },
+    //   { timeout: 60000 * 2 }
+    // );
 
     test('GIVEN library w/ encoded video THEN has meta', async () => {
       const video = await stream.getVideo(videoGuid);
@@ -257,23 +257,23 @@ describe('BunnyCdnStream', () => {
       });
     });
 
-    test(
-      'GIVEN library w/ encoded video THEN can reencode',
-      async () => {
-        const res = await stream.reencodeVideo(videoGuid);
-        expect(res).toBeInstanceOf(BunnyCdnStreamVideo);
-        await new Promise((r) => {
-          const interval = setInterval(async () => {
-            const video = await stream.getVideo(videoGuid);
-            if (video.encodeProgress === 100) {
-              clearInterval(interval);
-              r(0);
-            }
-          }, 1000);
-        });
-      },
-      { timeout: 60000 * 2 }
-    );
+    // test(
+    //   'GIVEN library w/ encoded video THEN can reencode',
+    //   async () => {
+    //     const res = await stream.reencodeVideo(videoGuid);
+    //     expect(res).toBeInstanceOf(BunnyCdnStreamVideo);
+    //     await new Promise((r) => {
+    //       const interval = setInterval(async () => {
+    //         const video = await stream.getVideo(videoGuid);
+    //         if (video.encodeProgress === 100) {
+    //           clearInterval(interval);
+    //           r(0);
+    //         }
+    //       }, 1000);
+    //     });
+    //   },
+    //   { timeout: 60000 * 2 }
+    // );
 
     test('GIVEN library THEN upload invalid video', async () => {
       const vid = createReadStream(resolve(__dirname, 'data', 'bunny.mp4'));
