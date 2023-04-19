@@ -627,8 +627,8 @@ export class BunnyCdnStream {
   private getOptions() {
     const { videoLibrary, apiKey, ...options } = this.options;
     return {
-      ...options,
       ...this.axiosOptions,
+      ...options,
       headers: new AxiosHeaders(this.axiosOptions.headers)
     };
   }
