@@ -1,4 +1,4 @@
-[bunnycdn-stream](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / VideoStatisticsResponse
+[bunnycdn-stream-s](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / VideoStatisticsResponse
 
 # Interface: VideoStatisticsResponse
 
@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/index.ts:725](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L725)
+[src/index.ts:728](https://github.com/Sterrenhemel/bunnycdn-stream/blob/2954655/src/index.ts#L728)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[src/index.ts:726](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L726)
+[src/index.ts:729](https://github.com/Sterrenhemel/bunnycdn-stream/blob/2954655/src/index.ts#L729)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[src/index.ts:727](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L727)
+[src/index.ts:730](https://github.com/Sterrenhemel/bunnycdn-stream/blob/2954655/src/index.ts#L730)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/index.ts:723](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L723)
+[src/index.ts:726](https://github.com/Sterrenhemel/bunnycdn-stream/blob/2954655/src/index.ts#L726)
 
 ___
 
@@ -78,4 +78,4 @@ ___
 
 #### Defined in
 
-[src/index.ts:724](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L724)
+[src/index.ts:727](https://github.com/Sterrenhemel/bunnycdn-stream/blob/2954655/src/index.ts#L727)

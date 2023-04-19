@@ -1,6 +1,6 @@
-[bunnycdn-stream](README.md) / Exports
+[bunnycdn-stream-s](README.md) / Exports
 
-# bunnycdn-stream
+# bunnycdn-stream-s
 
 ## Table of contents
 

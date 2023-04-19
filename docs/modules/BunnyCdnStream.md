@@ -1,4 +1,4 @@
-[bunnycdn-stream](../README.md) / [Exports](../modules.md) / BunnyCdnStream
+[bunnycdn-stream-s](../README.md) / [Exports](../modules.md) / BunnyCdnStream
 
 # Namespace: BunnyCdnStream
 

@@ -1,4 +1,4 @@
-[bunnycdn-stream](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / DeleteCollectionResponse
+[bunnycdn-stream-s](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / DeleteCollectionResponse
 
 # Interface: DeleteCollectionResponse
 
@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[src/index.ts:773](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L773)
+[src/index.ts:776](https://github.com/Sterrenhemel/bunnycdn-stream/blob/2954655/src/index.ts#L776)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/index.ts:774](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L774)
+[src/index.ts:777](https://github.com/Sterrenhemel/bunnycdn-stream/blob/2954655/src/index.ts#L777)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/index.ts:772](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L772)
+[src/index.ts:775](https://github.com/Sterrenhemel/bunnycdn-stream/blob/2954655/src/index.ts#L775)

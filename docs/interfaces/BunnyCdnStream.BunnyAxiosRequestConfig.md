@@ -1,4 +1,4 @@
-[bunnycdn-stream](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / BunnyAxiosRequestConfig
+[bunnycdn-stream-s](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / BunnyAxiosRequestConfig
 
 # Interface: BunnyAxiosRequestConfig
 
@@ -212,7 +212,7 @@ AxiosRequestConfig.headers
 
 #### Defined in
 
-[src/index.ts:794](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L794)
+[src/index.ts:797](https://github.com/Sterrenhemel/bunnycdn-stream/blob/2954655/src/index.ts#L797)
 
 ___
 

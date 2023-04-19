@@ -1,4 +1,4 @@
-[bunnycdn-stream](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / ListVideosResponse
+[bunnycdn-stream-s](../README.md) / [Exports](../modules.md) / [BunnyCdnStream](../modules/BunnyCdnStream.md) / ListVideosResponse
 
 # Interface: ListVideosResponse
 
@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[src/index.ts:736](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L736)
+[src/index.ts:739](https://github.com/Sterrenhemel/bunnycdn-stream/blob/2954655/src/index.ts#L739)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/index.ts:738](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L738)
+[src/index.ts:741](https://github.com/Sterrenhemel/bunnycdn-stream/blob/2954655/src/index.ts#L741)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/index.ts:737](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L737)
+[src/index.ts:740](https://github.com/Sterrenhemel/bunnycdn-stream/blob/2954655/src/index.ts#L740)
 
 ___
 
@@ -51,4 +51,4 @@ ___
 
 #### Defined in
 
-[src/index.ts:735](https://github.com/dan-online/bunnycdn-stream/blob/e358384/src/index.ts#L735)
+[src/index.ts:738](https://github.com/Sterrenhemel/bunnycdn-stream/blob/2954655/src/index.ts#L738)
